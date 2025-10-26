@@ -1,8 +1,8 @@
 
-**அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.**  
-*"As the letter 'A' is the first of all letters, so the eternal God is first in the world." — Thirukkural 1:1*
 
----
+<p align="center">
+  <img src="flag.png" width="720" alt="PolyglotAI Flag Banner"/>
+</p>
 
 **அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.**  
 *"As the letter 'A' is the first of all letters, so the eternal God is first in the world." — Thirukkural 1:1*
